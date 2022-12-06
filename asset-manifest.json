@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RCTCET/static/css/main.dded9296.css",
-    "main.js": "/RCTCET/static/js/main.364a67f8.js",
+    "main.js": "/RCTCET/static/js/main.1b88705f.js",
     "static/js/787.206fa96d.chunk.js": "/RCTCET/static/js/787.206fa96d.chunk.js",
     "index.html": "/RCTCET/index.html",
     "main.dded9296.css.map": "/RCTCET/static/css/main.dded9296.css.map",
-    "main.364a67f8.js.map": "/RCTCET/static/js/main.364a67f8.js.map",
+    "main.1b88705f.js.map": "/RCTCET/static/js/main.1b88705f.js.map",
     "787.206fa96d.chunk.js.map": "/RCTCET/static/js/787.206fa96d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dded9296.css",
-    "static/js/main.364a67f8.js"
+    "static/js/main.1b88705f.js"
   ]
 }
